@@ -65,7 +65,7 @@ export default function App() {
           <p className="text-lg sm:text-xl md:text-3xl text-zinc-300 font-light mb-8 md:mb-12 max-w-3xl mx-auto italic">
             “Transform Your Gym Into a Smart Fitness Business”
           </p>
-          <a href="mailto:kavikkannan.k@gmail.com" className="inline-flex items-center justify-center px-8 py-4 border-2 border-white text-white font-heading font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all duration-300 group">
+          <a href="mailto:kavikkannan.k@gmail.com?subject=Inquiry for Fitonic Gym Management&body=Hello,%0D%0A%0D%0AI am interested in Fitonic for my gym. Here are my details:%0D%0A%0D%0APackage: [Basic / Standard / Professional]%0D%0ABusiness Website: [Yes / No]%0D%0A%0D%0APlease get in touch with me." className="inline-flex items-center justify-center px-8 py-4 border-2 border-white text-white font-heading font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all duration-300 group">
             Get Started
             <ArrowRight className="ml-3 w-5 h-5 group-hover:translate-x-1 transition-transform" />
           </a>
@@ -234,7 +234,7 @@ export default function App() {
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-zinc-500 via-white to-zinc-500">Digitize Your Business.</span>
           </h2>
 
-          <a href="mailto:kavikkannan.k@gmail.com" className="inline-flex items-center justify-center px-10 py-5 bg-white text-black font-heading font-black text-lg uppercase tracking-widest hover:bg-zinc-200 transition-colors shadow-[0_0_30px_rgba(255,255,255,0.2)] hover:shadow-[0_0_50px_rgba(255,255,255,0.4)]">
+          <a href="mailto:kavikkannan.k@gmail.com?subject=Inquiry for Fitonic Gym Management&body=Hello,%0D%0A%0D%0AI am interested in Fitonic for my gym. Here are my details:%0D%0A%0D%0APackage: [Basic / Standard / Professional]%0D%0ABusiness Website: [Yes / No]%0D%0A%0D%0APlease get in touch with me." className="inline-flex items-center justify-center px-10 py-5 bg-white text-black font-heading font-black text-lg uppercase tracking-widest hover:bg-zinc-200 transition-colors shadow-[0_0_30px_rgba(255,255,255,0.2)] hover:shadow-[0_0_50px_rgba(255,255,255,0.4)]">
             Get Started Today
           </a>
         </div>
